@@ -16,4 +16,4 @@ Just open `index.html` in your browser to try it out!
 
 ---
 
-Made with by Sara Abdorab
+Made by Sara Abdorab
